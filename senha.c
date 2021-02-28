@@ -1,5 +1,3 @@
-// GCC 9.1.0
-// Matheus M. G. Araujo
 
 #include <stdio.h>
 #include <stdlib.h>
